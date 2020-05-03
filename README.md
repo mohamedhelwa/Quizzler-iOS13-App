@@ -1,6 +1,6 @@
 # Quizzler-iOS13-App
 
-Practiced iOS Swift development by creating a ‘Egg Timer App'
+Practiced iOS Swift development by creating a simple ‘Quiz App' learning iOS MVC design pattern.
 
 ![alt-text](Quizzler-iOS13/Quizzler.gif)
 
