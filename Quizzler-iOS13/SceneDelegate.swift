@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  Quizzler-iOS13
 //
-//  Created by Angela Yu on 12/07/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by MoHaMeD on 4/13/20.
+//  Copyright © 2020 MoHaMeD. All rights reserved.
 //
 
 import UIKit
